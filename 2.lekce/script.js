@@ -23,7 +23,7 @@ let cisloB = 5;
 console.log (cisloA + cisloB)
 
 // Umocňování ** 
-console.assert.log(cisloA ** cisloB)
+console.log(cisloA ** cisloB)
 // Zbytek 
 console.log(cisloA % cisloB)
 
@@ -38,4 +38,5 @@ number/=6;
 number%= 3;
 number++;
 number--;
+console.log(number);
 
