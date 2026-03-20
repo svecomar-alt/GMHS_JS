@@ -13,7 +13,7 @@ console.log(message)
 let number2 = 10;
 let message2 = (number2 > 0) ? "Kladné číslo" : "Není kladné";
 
-console.log(Message2)
+console.log(message2)
 
 let age = 20;
 if (age >= 18) {
